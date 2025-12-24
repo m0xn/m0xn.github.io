@@ -1,2 +1,2 @@
-import { hello } from "test.js"
+import { hello } from "./test.js"
 hello();

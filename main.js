@@ -1,2 +1,2 @@
-const hello = require("test.js");
+import { hello } from "test.js"
 hello();
